@@ -1,5 +1,6 @@
 # mousePressed-keyPressed
-/*float widthOfCircle = 50;
+change the width and the height of a circle
+float widthOfCircle = 50;
 float heightOfCircle = 50;
 void setup(){
   size(800,800);
@@ -13,9 +14,9 @@ void mousePressed(){
 void keyPressed(){
   heightOfCircle = heightOfCircle + 1;
 }
-*/
 
-/*float x = 400; 
+click to shift the circle right or left
+float x = 400; 
 float y = 400;
 void setup(){
   size(800,800);
@@ -30,8 +31,8 @@ void mousePressed(){
 void keyPressed(){
   x = x - 10;
 }
-*/
-/*
+
+mouse click = circle ; key click = rectangle
 void setup(){
   size(800,800);
 }
@@ -52,4 +53,4 @@ void keyPressed(){
   rect(100,700,50,50);
   rect(700,700,50,50);
 }
-*/
+
